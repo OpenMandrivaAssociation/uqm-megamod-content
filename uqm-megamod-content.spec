@@ -2,7 +2,7 @@
 
 Name:		%{base_name}-content
 Version:	0.8.0.85
-Release:	1
+Release:	2
 Summary:	Mandatory content package for Ur-Quan Masters Megamod game
 License:	GPL
 Group:		Games/Strategy
