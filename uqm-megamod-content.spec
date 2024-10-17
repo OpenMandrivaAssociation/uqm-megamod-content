@@ -6,7 +6,7 @@ Release:	2
 Summary:	Mandatory content package for Ur-Quan Masters Megamod game
 License:	GPL
 Group:		Games/Strategy
-URL:		http://megamod.serosis.net/Releases
+URL:		https://megamod.serosis.net/Releases
 Source:		http://files.serosis.net/MegaMod/%{version}/mm-%{version}-content.uqm
 Source1:	http://files.serosis.net/MegaMod/%{version}/mm-%{version}-hd.uqm
 Source2:	http://files.serosis.net/MegaMod/%{version}/mm-%{version}-3dovoice.uqm
